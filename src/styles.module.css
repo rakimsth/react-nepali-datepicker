@@ -104,6 +104,8 @@
   box-shadow 0.15s ease-in-out;
 
 }
+.dateContainer {
+}
 .selected {
   background-color: var(--teal-200);
   color: var(--teal-900);
